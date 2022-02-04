@@ -1,3 +1,5 @@
+This is my react project, a task from my KYH school. This project is a portfolio about me and will be used for future appointments. This project is still incomplete and in progress, I will develop it further the more knowledge I learn.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
